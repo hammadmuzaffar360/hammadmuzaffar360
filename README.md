@@ -1,6 +1,7 @@
 Hi, I'm Hammad Muzaffar
 
 About Me
+
 I am currently learning web development and building small projects to improve my skills.
 
 I am focusing on:
